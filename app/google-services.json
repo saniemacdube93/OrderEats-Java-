@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063502237990",
+    "firebase_url": "https://ordereats-b2275.firebaseio.com",
+    "project_id": "ordereats-b2275",
+    "storage_bucket": "ordereats-b2275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063502237990:android:540acdb4c1008ee8e7b1e7",
+        "android_client_info": {
+          "package_name": "com.example.androideatitjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063502237990-5ugledo5iqseehe2l2etcd5ilpfev1h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androideatitjava",
+            "certificate_hash": "50d43d0ec75eddb588e3c8fabc630c0d05031d9e"
+          }
+        },
+        {
+          "client_id": "1063502237990-auc3514t8j0hguehu6uhkkomcoo8cb0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMM-W_ZE7QLP09KtmJbIji2FA6tkrwJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063502237990-auc3514t8j0hguehu6uhkkomcoo8cb0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
